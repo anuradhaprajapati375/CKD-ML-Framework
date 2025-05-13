@@ -1,5 +1,31 @@
 # CKD-ML-Framework
-A hybrid machine learning framework for the early detection of Chronic Kidney Disease (CKD), using stacking with Decision Tree, Gradient Boosting, Naïve Bayes, and Random Forest. Built in Python with Flask frontend, powered by UCI CKD dataset. Achieves 100% accuracy through feature  ensemble modeling.
+Title: CKD-ML-Framework
+Purpose: The framework is designed for the early detection of Chronic Kidney Disease (CKD).
+Key Aspects of the Project
+
+Machine Learning Techniques:
+
+Utilizes stacking with multiple algorithms:
+Decision Tree
+Gradient Boosting
+Naïve Bayes
+Random Forest
+Implementation:
+
+Developed using Python.
+Frontend built with Flask.
+Dataset:
+
+Powered by the UCI CKD dataset.
+
+Performance:
+Claims to achieve 100% accuracy through feature ensemble modeling.
+
+Features:
+Predicts CKD using clinical parameters.
+Utilizes a hybrid stacking ensemble model for higher accuracy.
+Full-stack web application built on Flask.
+Clean interface designed with Tailwind CSS.
 ---
 
 # Features
@@ -34,7 +60,7 @@ CKD-ML-Framework/
 Dataset Source
 UCI Chronic Kidney Disease Dataset
 
-👩‍💻 Author
+ Author
 Anuradha Vijaypratap Prajapati
 📧 prajapatianuradha375@gmail.com
 🎓 B.Sc. Computer Science, St. Wilfred College, Panvel
